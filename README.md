@@ -18,7 +18,7 @@ To help determine the ideal campaign goal, I set up a table in a new tab. I used
 
 ### Challenges and Difficulties Encountered
 
-I'm pretty familiar with Excel and most of the work performed in this project, so I didn't encounter too many issues. One challege I encountered related to the COUNTIFS formula described in the "based on goals" analysis. I had not previously entered value ranges in these formulas, so I didn't know I needed to use quotation marks until I watched the hint video. If I were doing something like this on my own, I would have input the ranges using a numbers format versus the text/general format that we used. That way I could make them formula driven and drag them down without having to manually enter each range. And then would link to the range cells within my COUNTIFS formula.
+I'm pretty familiar with Excel and most of the work performed in this project, so I didn't encounter too many issues. One challenge I encountered related to the COUNTIFS formula described in the "based on goals" analysis. I had not previously entered value ranges in these formulas, so I didn't know I needed to use quotation marks until I watched the hint video. If I were doing something like this on my own, I would have input the ranges using a numbers format versus the text/general format that we used. That way I could make them formula driven and drag them down without having to manually enter each range. And then would link to the range cells within my COUNTIFS formula.
 
 ## Results
 
@@ -26,11 +26,11 @@ I'm pretty familiar with Excel and most of the work performed in this project, s
 
 1. For the "theater" parent category, it seems that May is an ideal time to launch the Kickstarter campaign. For the data evaluated, 12% of theater campaigns were launched in the month of May, and 67% of those were successful. The next closest is June, for which 65% of the campaigns were successful. This is immediately apparent when looking at the chart as well.
 2. May and June are the most popular times to launch theater campaigns in the Kickstart data that we evaluated. 23% of theater campaigns launched in these 2 months. November and December are the least popular times to launch a theater Kickstarter campaign.
-3. When considering all years together, there was never a month where there were more failed theater campaigns than successful theather campaigns, although December comes close. This trend doesn't always hold when considering individual years - for instance 2014 and 2015.
+3. When considering all years together, there was never a month where there were more failed theater campaigns than successful theater campaigns, although December comes close. This trend doesn't always hold when considering individual years - for instance 2014 and 2015.
 
 - What can you conclude about the Outcomes based on Goals?
 
-The most successful Kickstarter campaigns for plays occurred in the "less than 1,000" and "1,000 to 4,999" goal ranges. These are also the ranges for which most play campaigns were launched - 69% of all play campaigns were launched in these goal ranges. There has also been some success in the "35,000 to 39,999" and "40,000 to 44,999" ranges. However, there were only 9 play campaigns launched in these ranges (1% of total play campaigns), so it's potentially more risky to rely on those outcome percentages.
+The most successful Kickstarter campaigns for plays occurred in the "less than 1,000" and "1,000 to 4,999" goal ranges. These are also the ranges for which most play campaigns were launched - 69% of all play campaigns were launched in these goal ranges. There has also been some success in the "35,000 to 39,999" and "40,000 to 44,999" ranges. However, there were only 9 play campaigns launched in these ranges (1% of total play campaigns), so it's potentially riskier to rely on those outcome percentages.
 
 - What are some limitations of this dataset?
 
