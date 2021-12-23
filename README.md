@@ -10,7 +10,7 @@ The purpose of this project is to help a client, Louise, to evaluate ideal timin
 
 ### Analysis of Outcomes Based on Launch Date
 
-To help determine ideal campaign timing, I created a pivot table and chart based on the full data set. Since Louise is interested in obtaining funding for a play (a subcategory of "theater"), I used "parent category" as one of the pivot filters and selected only "theater" category data. I considered only closed campaigns (i.e. not "live") and set up the pivot table to count outcomes by month.
+To help determine ideal campaign timing, I created a pivot table and chart based on the full data set. Since Louise is interested in obtaining funding for a play (a subcategory of "theater"), I used "parent category" as one of the pivot filters and selected only "theater" category data. I considered only closed campaigns (i.e. not "live") and set up the pivot table to count outcomes by month. I used a pivot chart to help visualize the pivot table data, to show theater outcomes by month.
 
 ![Launch Date Chart](/Resources/Theater_Outcomes_vs_Launch.png)
 
